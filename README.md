@@ -2,19 +2,17 @@
 
 🔎 Overview
 
-The HR Dashboard Project is a comprehensive analytics solution designed to empower Human Resources managers with actionable insights derived from workforce data. Its main goal is to provide both a summary view for high-level strategic decisions and a detailed employee records view for operational analysis. This dual-layer design ensures that HR professionals can monitor overall organizational trends while also exploring individual employee information when needed.
+The HR Dashboard Project is an analytics solution that helps HR managers gain insights from workforce data. It offers a summary view for strategic analysis and a detailed employee records view for operational needs.
 
-The Summary View is organized into three main sections: Overview, Demographics, and Income Analysis, each focusing on a different aspect of HR performance.
+The summary view is divided into three sections: Overview, Demographics, and Income Analysis. The Overview provides total counts of hired, active, and terminated employees, hiring and termination trends over time, and employee distribution by department, job title, city, and between headquarters in New York and other branches.
 
-The Overview section provides a quick snapshot of key workforce metrics. It shows the total numbers of hired, active, and terminated employees, allowing managers to track workforce growth and attrition over time. Historical charts display hiring and termination trends by year to help identify recruitment patterns or turnover issues. This section also includes a breakdown of employees by department and job title, a comparison between headquarters (New York) and branch offices, and a geographic view showing employee distribution by city and state.
+The Demographics section shows gender ratios, age and education distributions, and the relationship between education levels and performance ratings, helping HR teams evaluate diversity and talent quality.
 
-The Demographics section focuses on workforce composition and diversity. It highlights gender ratios, age group distributions, and education levels. Detailed visuals display the number of employees in each demographic group, helping HR teams assess balance and inclusivity. It also examines the relationship between education levels and performance ratings to uncover insights useful for hiring and training strategies.
+The Income Analysis section compares salaries across education levels and genders to identify pay gaps and explores how age correlates with salary in different departments.
 
-The Income Analysis section explores compensation data to identify salary trends and disparities. It compares salaries across education levels for both genders to evaluate pay equity. It also analyzes how age correlates with salary across departments, providing insights into experience-based compensation patterns.
+The Employee Records view presents a searchable and filterable table with details such as name, department, position, gender, age, education, and salary.
 
-The Employee Records View complements the summary by offering a detailed, searchable, and filterable table of all employees, including their name, department, position, gender, age, education, and salary. This enables HR managers to access specific records and perform deeper analysis.
-
-Overall, the HR Dashboard serves as an intelligent decision-support system that enhances transparency, efficiency, and fairness while providing HR leaders with a data-driven foundation for strategic planning.
+Overall, this dashboard supports informed decision-making, improves transparency, and strengthens workforce management through data-driven insights.
 
 📚 Project Sources
 
