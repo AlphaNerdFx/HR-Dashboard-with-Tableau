@@ -2,15 +2,14 @@
 
 🔎 Overview
 
-The HR Dashboard Project is an analytics solution that helps HR managers gain insights from workforce data. It offers a summary view for strategic analysis and a detailed employee records view for operational needs.
+The HR Dashboard Project is an analytics solution that helps HR managers gain insights from workforce data. It offers a summary view for strategic analysis and a detailed employee records view for operational needs. The summary view is divided into three sections: Overview, Demographics, and Income Analysis. 
+The Overview provides total counts of hired, active, and terminated employees, hiring and termination trends over time, and employee distribution by department, job title, city, and between headquarters in New York and other branches.
 
-The summary view is divided into three sections: Overview, Demographics, and Income Analysis. The Overview provides total counts of hired, active, and terminated employees, hiring and termination trends over time, and employee distribution by department, job title, city, and between headquarters in New York and other branches.
+- Demographics section: shows gender ratios, age and education distributions, and the relationship between education levels and performance ratings, helping HR teams evaluate diversity and talent quality.
 
-The Demographics section shows gender ratios, age and education distributions, and the relationship between education levels and performance ratings, helping HR teams evaluate diversity and talent quality.
+- Income Analysis section: compares salaries across education levels and genders to identify pay gaps and explores how age correlates with salary in different departments.
 
-The Income Analysis section compares salaries across education levels and genders to identify pay gaps and explores how age correlates with salary in different departments.
-
-The Employee Records view presents a searchable and filterable table with details such as name, department, position, gender, age, education, and salary.
+- Employee Records view: presents a searchable and filterable table with details such as name, department, position, gender, age, education, and salary.
 
 Overall, this dashboard supports informed decision-making, improves transparency, and strengthens workforce management through data-driven insights.
 
