@@ -1,5 +1,14 @@
 # HR Dashboard: Summarized & Detailed
 
+📚 Project Sources
+
+- Project Data: The data used in this HR Dashboard project is generated using a combination of ChatGPT prompts and the Python Faker library. This dataset simulates a set of employee information typically found in HR systems, including demographics, job details, salary, performance evaluations, and attrition data. The generated data is designed to mimic real-world HR data, providing a rich dataset for analysis and visualization in Tableau.
+
+- Icons & Images: The icons used in the HR Dashboard are sourced from Flaticon and customized using Photopea to match the dashboard’s color scheme. The PDS (Photopea files) can be found in the icon folder of the zip file for further editing if needed.
+
+- Mockups: The initial dashboard mockup was created using the Procreate app on a tablet. Additionally, the dashboard container mockups were created using draw.io.
+
+- Tableau Project File: The project file created during the course can be found in Zip file. You can also directly download the Tableau file from my Tableau Public Profile.
 
 🛡️ License
 
